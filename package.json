@@ -1,0 +1,22 @@
+{
+  "name": "startlight-test",
+  "version": "1.0.0",
+  "description": "A test project for deploying Starlight docs within another repo",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snelgrove/startlight-test.git"
+  },
+  "author": "Matt Snelgrove",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snelgrove/startlight-test/issues"
+  },
+  "homepage": "https://github.com/snelgrove/startlight-test#readme"
+}
